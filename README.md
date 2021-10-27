@@ -1,2 +1,2 @@
-# triangle
+# Rectangle delete this
 cs10
